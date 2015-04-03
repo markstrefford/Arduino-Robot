@@ -8,20 +8,20 @@ It runs an Arduino Uno Rev3 and L298N Controller Board.
 
 The Arduino pin are connecting as follows:
 
-D0 - 
-D1 - 
-D2 - 
-D3 - 
-D4 - 
-D5 - 
-D6 - L1 (Left motors)
-D7 - L2 (Left motors)
-D8 - R2 (Right motors)
-D9 - R1 (Right motors)
-D10 - Pan servo
-D11 - Tilt servo
-D12 - Left infrared sensor
-D13 - Right infrared sensor
+- D0 - 
+- D1 -
+- D2 -
+- D3 - 
+- D4 - 
+- D5 - 
+- D6 - L1 (Left motors)
+- D7 - L2 (Left motors)
+- D8 - R2 (Right motors)
+- D9 - R1 (Right motors)
+- D10 - Pan servo
+- D11 - Tilt servo
+- D12 - Left infrared sensor
+- D13 - Right infrared sensor
 
 A0 -
 A1 - 

@@ -23,12 +23,12 @@ The Arduino pin are connecting as follows:
 - D12 - Left infrared sensor
 - D13 - Right infrared sensor
 
-A0 -
-A1 - 
-A2 - 
-A3 - 
-A4 - Trigger pin (Ultrasound)
-A5 - Echo pin (Ultrasound)
+- A0 -
+- A1 - 
+- A2 - 
+- A3 - 
+- A4 - Trigger pin (Ultrasound)
+- A5 - Echo pin (Ultrasound)
 
 
 
